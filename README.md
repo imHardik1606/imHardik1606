@@ -27,7 +27,8 @@ Here are the tools and technologies I work with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imHardik1606)](https://github.com/imHardik1606/github-readme-stats)
 
 ## 💭 Quote of the Day
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=true&type=horizontal&theme=dark)](https://github.com/imHardik1606/github-readme-quotes)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=true&theme=dark)](https://github.com/imHardik1606/github-readme-quotes)
 
 ## 🌟 My Projects
 
