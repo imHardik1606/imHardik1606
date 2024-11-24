@@ -19,7 +19,7 @@
 
 Here are the tools and technologies I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,nodejs,expressjs,react,mongodb,mysql,bootstrap,tailwind,cpp,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,nodejs,expressjs,react,mongodb,mysql,bootstrap,tailwind,c,cpp,linux&theme=light)](https://skillicons.dev)
 
 ## 📈 My GitHub Stats
 
