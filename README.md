@@ -19,7 +19,7 @@
 
 Here are the tools and technologies I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,nodejs,expressjs,react,mongodb,mysql,bootstrap,tailwind,c,cpp,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,python,nodejs,expressjs,react,materialui,mongodb,mysql,bootstrap,tailwind,c,cpp,linux&theme=light)](https://skillicons.dev)
 
 ## 📈 My GitHub Stats
 
@@ -47,3 +47,4 @@ Feel free to reach out to me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-gayner-0b2ab32ba/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/h_gayner)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikgayner1606@gmail.com)
