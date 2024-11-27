@@ -17,11 +17,15 @@
 - ⚡ I'm fascinated by building innovative projects, including web and Android applications.
 - 💬 Ask me about **DSA**, **Java**, **JavaScript**, and **web development**.
 
-## 🔧 Technologies & Tools
+## Here are the tools and technologies I work with:
 
-Here are the tools and technologies I work with:
+### 🔧 Technologies & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,python,nodejs,expressjs,react,materialui,mongodb,mysql,bootstrap,tailwind,c,cpp,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,go,html,css,nodejs,expressjs,react,materialui,mongodb,mysql,firebase,supabase,postgres,&theme=light)](https://skillicons.dev)
+
+### 🧰 Tools
+
+[![My Skills](https://skillicons.dev/icons?i=github,git,npm,yarn,pnpm,bootstrap,vscode,linux,postman,&theme=light)](https://skillicons.dev)
 
 ## 📈 My GitHub Stats
 <!-- 
@@ -33,9 +37,11 @@ Here are the tools and technologies I work with:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=imHardik1606&card_width=300&theme=dark)
 <!-- ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=imHardik1606&langs_count=10&card_width=770&layout=compact&theme=dark) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imHardik1606&card_width=770&layout=compact&theme=dark)](https://github.com/imHardik1606/github-readme-stats)
-## 💭 Quote of the Day
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=true&theme=dark)](https://github.com/imHardik1606/github-readme-quotes)
+<img width=400 src="https://leetcard.jacoblin.cool/HardikGayner?theme=nord&font=Anek%20Bangla&ext=heatmap&border_radius=10" alt="LeetCard" />
+
+## 💭 Quote of the Day
+[![Readme Quotes](https://quotes.uinclis.de/api?type=horizontal&theme=dark)](https://github.com/U-L-M-S/github-readme-quotes)
 
 ## 🌟 My Projects
 
