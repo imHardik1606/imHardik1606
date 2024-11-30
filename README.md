@@ -17,25 +17,17 @@
 - ⚡ I'm fascinated by building innovative projects, including web and Android applications.
 - 💬 Ask me about **DSA**, **Java**, **JavaScript**, and **web development**.
 
-## Here are the tools and technologies I work with:
+#### 🛠️ **Languages & Frameworks I work with: **
 
-### 🔧 Technologies & Frameworks
+[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,nodejs,expressjs,react,mongodb,mysql,postgres,html,css,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,go,html,css,nodejs,expressjs,react,materialui,mongodb,mysql,firebase,supabase,postgres,&theme=light)](https://skillicons.dev)
+#### 🧰 **Tools**
 
-### 🧰 Tools
-
-[![My Skills](https://skillicons.dev/icons?i=github,git,npm,yarn,pnpm,bootstrap,vscode,linux,postman,&theme=light)](https://skillicons.dev)
-
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman,firebase,&theme=dark)](https://skillicons.dev)
 ## 📈 My GitHub Stats
-<!-- 
-[![Hardik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imHardik1606&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imHardik1606)](https://github.com/imHardik1606/github-readme-stats)
--->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=imHardik1606&show_icons=true&count_private=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=imHardik1606&card_width=300&theme=dark)
-<!-- ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=imHardik1606&langs_count=10&card_width=770&layout=compact&theme=dark) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imHardik1606&card_width=770&layout=compact&theme=dark)](https://github.com/imHardik1606/github-readme-stats)
 
 <img width=400 src="https://leetcard.jacoblin.cool/HardikGayner?theme=nord&font=Anek%20Bangla&ext=heatmap&border_radius=10" alt="LeetCard" />
