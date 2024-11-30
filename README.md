@@ -41,7 +41,8 @@
 <img width=400 src="https://leetcard.jacoblin.cool/HardikGayner?theme=nord&font=Anek%20Bangla&ext=heatmap&border_radius=10" alt="LeetCard" />
 
 ## 💭 Quote of the Day
-[![Readme Quotes](https://quotes.uinclis.de/api?type=horizontal&theme=dark)](https://github.com/U-L-M-S/github-readme-quotes)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🌟 My Projects
 
@@ -61,5 +62,6 @@ Feel free to reach out to me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-gayner-0b2ab32ba/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/h_gayner)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikgayner1606@gmail.com)
+
 
 <p align="center"><sub>Made With ❤️<br>Copyright © 2024-present imHardik1606</sub></p>
