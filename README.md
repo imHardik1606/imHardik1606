@@ -9,13 +9,14 @@
 - ⚡ I'm fascinated by building innovative projects, including web and Android applications.
 - 💬 Ask me about **DSA**, **Java**, **JavaScript**, and **web development**.
 
-#### 🛠️ Languages & Frameworks I work with:
+## 🛠️ Languages & Frameworks I work with:
 
 [![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,nodejs,expressjs,react,mongodb,mysql,postgres,html,css,&theme=dark)](https://skillicons.dev)
 
-#### 🧰 **Tools**
+## 🧰 **Tools**
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,pnpm,vite,linux,postman,supabase,firebase,&theme=dark)](https://skillicons.dev)
+
 ## 📈 My GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=imHardik1606&show_icons=true&count_private=true&theme=radical)
