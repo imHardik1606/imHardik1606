@@ -1,6 +1,9 @@
 <div align="center">
-<pre><img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=40&center=true&vCenter=true&width=600&height=50&color=FFFFFFF8&duration=4500&lines=Hello,+I'm+Hardik+Gayner👋;"/></pre>
+<pre>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=40&center=true&vCenter=true&width=600&height=50&color=007ACC&duration=4500&lines=Hello,+I'm+Hardik+Gayner👋;"/>
+</pre>
 </div>
+
 
 ## 🙋‍♂️ About Me  
 
