@@ -41,10 +41,20 @@ Here are a few projects that I'm proud of:
 - **[Booking App](https://github.com/imHardik1606/Booking-App)** - My first full-stack project built using the MERN stack (MongoDB, ExpressJS, ReactJS, and NodeJS). This app focuses on booking experiences, showcasing my foundational understanding of full-stack development.
 - **[Mern Chat](https://github.com/imHardik1606/mern-chat)** - A real-time chat application where users can communicate effortlessly and share files. The integration of file-sharing functionality adds versatility to this platform.
 
-## 💡 Fun Facts
 
-- I love solving challenging coding problems on platforms like LeetCode.
-- I'm always excited to learn new technologies and collaborate on open-source projects.
+## 💡 Fun Facts  
+
+- 🧩 I love solving challenging coding problems on platforms like **LeetCode**.  
+- 🛠️ I'm always excited to learn new technologies and collaborate on **open-source projects**.  
+- 🤖 I enjoy exploring **Large Language Models (LLMs)** and staying updated on cutting-edge technologies.  
+- ☕ I believe that great ideas are brewed with a cup of coffee (or two!).  
+- ✈️ I dream of building tech solutions that make living more fun and efficient.  
+- 🧠 I enjoy breaking down complex problems into simple, intuitive steps.  
+- 💻 Hackathons are my jam—I thrive on the adrenaline of building something amazing in a short time!  
+- 🌟 I’m passionate about mentoring and helping others get started with **DSA** and development.  
+
+## 👀 Visitor count
+<img src="https://profile-counter.glitch.me/imHardik1606/count.svg" />
 
 ## 📫 Connect with Me
 
