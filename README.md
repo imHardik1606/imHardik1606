@@ -12,7 +12,7 @@
 - ⚡ Enthusiastic about creating innovative projects in **web** and **Android development**.  
 - 💬 Love talking about **DSA**, **Java**, **JavaScript**, and **web development**.  
 
-![Working on](https://img.shields.io/badge/working_on-MERN_chat-green)
+![Working on](https://img.shields.io/badge/working_on-TripBuddy-green)
 ![Learning](https://img.shields.io/badge/learning-GoLang_&_TypeScript-blue)
 ![Interested In](https://img.shields.io/badge/interested_in-Web_dev_&_Java-red)
 
