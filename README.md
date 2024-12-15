@@ -6,11 +6,16 @@
 
 ## 🙋‍♂️ **About Me**
 
-- 🎓 **BCA Student** at **Rashtrasant Tukadoji Maharaj Nagpur University**, passionate about solving complex problems.  
+- 🎓 **BCA Student** at **Rashtrasant Tukadoji Maharaj Nagpur University**, passionate about building cool stuffs.  
 - 🌱 Currently mastering **DSA** and building projects using **Express.js** and **MongoDB**.  
 - 📘 Exploring **TypeScript** and **Golang** to expand my tech stack.  
 - ⚡ Enthusiastic about creating innovative projects in **web** and **Android development**.  
 - 💬 Love talking about **DSA**, **Java**, **JavaScript**, and **web development**.  
+
+![Working on](https://img.shields.io/badge/working_on-MERN_chat-green)
+![Learning](https://img.shields.io/badge/learning-GoLang_&_TypeScript-blue)
+![Interested In](https://img.shields.io/badge/interested_in-Web_dev_&_Java-red)
+
 
 ---
 
@@ -57,10 +62,10 @@ Here are some projects that I’m proud of:
 ## 💡 **Fun Facts**
 
 - 🧩 Love solving challenging problems on platforms like **LeetCode**.  
-- 🤖 Passionate about exploring **Large Language Models (LLMs)**.  
+- 🤖 Passionate about exploring **LLMs** and **AI**.  
 - 💻 Thrive in hackathons and enjoy building creative solutions.  
 - ☕ Coffee and coding go hand in hand for me!  
-- 🌟 Believe in mentoring and helping others get started with **DSA** and development.  
+- 🌟 Believe in mentoring and helping others get started with **DSA** and **Development**.  
 
 ---
 
@@ -68,9 +73,13 @@ Here are some projects that I’m proud of:
 
 Feel free to reach out to me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-gayner-0b2ab32ba/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/h_gayner)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikgayner1606@gmail.com)
+<div align="center">
+  
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hardik-gayner-0b2ab32ba/)
+  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/h_gayner)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hardikgayner1606@gmail.com)
+  
+</div>
 
 ---
 
