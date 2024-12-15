@@ -7,7 +7,7 @@
 ## 🙋‍♂️ **About Me**
 
 - 🎓 **BCA Student** at **Rashtrasant Tukadoji Maharaj Nagpur University**, passionate about solving complex problems.  
-- 🌱 Currently mastering **Data Structures and Algorithms (DSA)** and building projects using **Express.js** and **MongoDB**.  
+- 🌱 Currently mastering **DSA** and building projects using **Express.js** and **MongoDB**.  
 - 📘 Exploring **TypeScript** and **Golang** to expand my tech stack.  
 - ⚡ Enthusiastic about creating innovative projects in **web** and **Android development**.  
 - 💬 Love talking about **DSA**, **Java**, **JavaScript**, and **web development**.  
