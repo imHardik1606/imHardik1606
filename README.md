@@ -34,6 +34,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imHardik1606&show_icons=true&count_private=true&theme=radical" alt="Hardik's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=imHardik1606&theme=dark" alt="GitHub Streak" />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imHardik1606&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
