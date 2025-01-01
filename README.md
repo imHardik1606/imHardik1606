@@ -4,7 +4,7 @@
 
 ---
 
-## 🙋‍♂️ **About Me**
+# 🙋‍♂️ **About Me**
 
 - 🎓 **BCA Student** at **Rashtrasant Tukadoji Maharaj Nagpur University**, passionate about building cool stuffs.  
 - 🌱 Currently mastering **DSA** and building projects using **Express.js** and **MongoDB**.  
@@ -19,17 +19,17 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+# 🛠️ **Tech Stack**
 
-### 🧑‍💻 **Languages & Frameworks**
-[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,nodejs,expressjs,react,mongodb,mysql,postgres,html,css,&theme=dark)](https://skillicons.dev)
+## 🧑‍💻 **Languages & Frameworks**
+[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,nodejs,expressjs,react,html,css,&theme=dark)](https://skillicons.dev)
 
-### 🧰 **Tools**
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,pnpm,vite,linux,postman,supabase,firebase,&theme=dark)](https://skillicons.dev)
+## 🧰 **Tools**
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,pnpm,vite,linux,postman,mongodb,mysql,postgres,supabase,firebase,&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 📈 **GitHub Stats**
+# 📈 **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imHardik1606&show_icons=true&count_private=true&theme=radical" alt="Hardik's GitHub Stats" />
@@ -37,14 +37,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imHardik1606&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-## ✏️ **LeetCode Stats**
+# ✏️ **LeetCode Stats**
 <div align="center">
   <img width="400" src="https://leetcard.jacoblin.cool/HardikGayner?theme=nord&font=Anek%20Bangla&ext=heatmap&border_radius=10" alt="LeetCard" />
 </div>
 
 ---
 
-## 🌟 **Featured Projects**
+# 🌟 **Featured Projects**
 
 Here are some projects that I’m proud of:
 
@@ -59,7 +59,7 @@ Here are some projects that I’m proud of:
 
 ---
 
-## 💡 **Fun Facts**
+# 💡 **Fun Facts**
 
 - 🧩 Love solving challenging problems on platforms like **LeetCode**.  
 - 🤖 Passionate about exploring **LLMs** and **AI**.  
@@ -69,7 +69,7 @@ Here are some projects that I’m proud of:
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect with Me
 
 Feel free to reach out to me:
 
@@ -83,7 +83,7 @@ Feel free to reach out to me:
 
 ---
 
-## 👀 **Visitor Count**
+# 👀 **Visitor Count**
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/imHardik1606/count.svg" alt="Visitor Count" />
