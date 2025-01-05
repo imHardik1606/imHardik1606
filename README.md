@@ -15,6 +15,7 @@
 ![Working on](https://img.shields.io/badge/working_on-TripBuddy-green)
 ![Learning](https://img.shields.io/badge/learning-GoLang_&_TypeScript-blue)
 ![Interested In](https://img.shields.io/badge/interested_in-Web_dev_&_Java-red)
+![Hobbies](https://img.shields.io/badge/Hobbies-Nature_photography-purple)
 
 
 ---
