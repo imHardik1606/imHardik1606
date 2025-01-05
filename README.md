@@ -15,7 +15,7 @@
 ![Working on](https://img.shields.io/badge/working_on-TripBuddy-green)
 ![Learning](https://img.shields.io/badge/learning-GoLang_&_TypeScript-blue)
 ![Interested In](https://img.shields.io/badge/interested_in-Web_dev_&_Java-red)
-![Hobbies](https://img.shields.io/badge/Hobbies-Nature_photography-purple)
+![Hobby](https://img.shields.io/badge/Hobby-Nature_photography-purple)
 
 
 ---
@@ -23,10 +23,10 @@
 # 🛠️ **Tech Stack**
 
 ## 🧑‍💻 **Languages & Frameworks**
-[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,nodejs,expressjs,react,html,css,&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,nodejs,expressjs,react,html,css,&theme=light)](https://skillicons.dev)
 
 ## 🧰 **Tools**
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,pnpm,vite,linux,postman,mongodb,mysql,postgres,supabase,firebase,&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,pnpm,vite,linux,postman,mongodb,mysql,postgres,supabase,firebase,&theme=light)](https://skillicons.dev)
 
 ---
 
