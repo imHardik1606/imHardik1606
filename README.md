@@ -40,7 +40,7 @@
 
 # ✏️ **LeetCode Stats**
 <div align="center">
-  <img width="400" src="https://leetcard.jacoblin.cool/HardikGayner?theme=nord&font=Anek%20Bangla&ext=heatmap&border_radius=10" alt="LeetCard" />
+  <img width="400" src="https://leetcard.jacoblin.cool/knight_16?theme=nord&font=Anek%20Bangla&ext=heatmap&border_radius=10" alt="LeetCard" />
 </div>
 
 ---
