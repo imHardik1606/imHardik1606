@@ -45,6 +45,7 @@
 
 ---
 # 💬 **Quote of the Day**
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
