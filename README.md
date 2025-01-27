@@ -6,7 +6,7 @@
 
 # 🙋‍♂️ **About Me**
 
-- 🎓 **BCA Student** at **Rashtrasant Tukadoji Maharaj Nagpur University**, passionate about building cool stuffs.  
+- 🎓 **Student** at **Rashtrasant Tukadoji Maharaj Nagpur University**, passionate about building cool stuffs.  
 - 🌱 Currently mastering **DSA** and building projects using **Express.js** and **MongoDB**.  
 - 📘 Exploring **TypeScript** and **Golang** to expand my tech stack.  
 - ⚡ Enthusiastic about creating innovative projects in **web** and **Android development**.  
