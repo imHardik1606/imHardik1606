@@ -26,7 +26,7 @@
 [![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,nodejs,expressjs,react,html,css,&theme=light)](https://skillicons.dev)
 
 ## 🧰 **Tools**
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,materialui,npm,yarn,pnpm,vite,jest,linux,postman,mongodb,mysql,postgres,supabase,firebase,&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,materialui,vercel,npm,yarn,pnpm,vite,jest,linux,postman,mongodb,mysql,postgres,supabase,firebase,&theme=light)](https://skillicons.dev)
 
 ---
 
