@@ -57,8 +57,8 @@ Here are some projects that I’m proud of:
 - 🚀 **[WanderLust](https://github.com/imHardik1606/Wanderlust)**  
   A web app enabling property rentals with ease, ensuring seamless management for hosts and renters.
 
-- 📅 **[Booking App](https://github.com/imHardik1606/Booking-App)**  
-  My first full-stack MERN project focusing on booking experiences, showcasing my foundational skills.
+- 📅 **[Travel-Planner](https://github.com/imHardik1606/AI-Travel-Planner)**  
+ An AI-powered travel assistant that suggests hotels and daily itineraries based on your destination, budget, and travel details using Google Gemini. Plan smarter, travel better! 🚀 
 
 - 💬 **[MERN Chat](https://github.com/imHardik1606/mern-chat)**  
   A real-time chat application with file-sharing functionality for added versatility.
