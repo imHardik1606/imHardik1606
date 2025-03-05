@@ -23,7 +23,7 @@
 # 🛠️ **Tech Stack**
 
 ## 🧑‍💻 **Languages & Frameworks**
-[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,nodejs,expressjs,react,html,css,&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,nodejs,expressjs,react,next,html,css,&theme=light)](https://skillicons.dev)
 
 ## 🧰 **Tools**
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,materialui,vercel,npm,yarn,pnpm,vite,jest,linux,postman,mongodb,mysql,postgres,supabase,firebase,&theme=light)](https://skillicons.dev)
