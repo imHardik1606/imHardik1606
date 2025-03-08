@@ -17,18 +17,25 @@
 ![Interested In](https://img.shields.io/badge/interested_in-Web_dev_&_Java-red)
 ![Hobby](https://img.shields.io/badge/Hobby-Nature_photography-purple)
 
-
 ---
 
 # 🛠️ **Tech Stack**
 
-## 🧑‍💻 **Languages & Frameworks**
-[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,nodejs,expressjs,react,next,html,css,&theme=light)](https://skillicons.dev)
+## 👨‍💻 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,&theme=light)](https://skillicons.dev)
 
-## 🧰 **Tools**
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,materialui,vercel,npm,yarn,pnpm,vite,jest,linux,postman,mongodb,mysql,postgres,supabase,firebase,&theme=light)](https://skillicons.dev)
+## ⚙️ Frameworks & Libraries
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,expressjs,react,next,html,css,&theme=light)](https://skillicons.dev)
+
+## 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,&theme=light)](https://skillicons.dev)
+
+## 🔧 Other Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,materialui,vercel,npm,yarn,pnpm,vite,jest,linux,postman,&theme=light)](https://skillicons.dev)
 
 ---
+
+Feel free to adjust or rearrange the items to best suit your profile. Enjoy!
 
 # 📈 **GitHub Stats**
 
