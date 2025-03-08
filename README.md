@@ -35,8 +35,6 @@
 
 ---
 
-Feel free to adjust or rearrange the items to best suit your profile. Enjoy!
-
 # 📈 **GitHub Stats**
 
 <div align="center">
