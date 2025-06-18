@@ -10,9 +10,9 @@
 - 🌱 Currently mastering **DSA** and building projects using **Express.js** and **MongoDB**.  
 - 📘 Exploring **TypeScript** and **Golang** to expand my tech stack.  
 - ⚡ Enthusiastic about creating innovative projects in **web** and **Android development**.  
-- 💬 Love talking about **DSA**, **Java**, **JavaScript**, and **web development**.  
+- 💬 Love talking about **DSA**, **Java**, **JavaScript**, and **Web Development**.  
 
-![Working on](https://img.shields.io/badge/working_on-TripBuddy-green)
+![Working on](https://img.shields.io/badge/working_on-LeetGuide-orange)
 ![Learning](https://img.shields.io/badge/learning-GoLang_&_TypeScript-blue)
 ![Interested In](https://img.shields.io/badge/interested_in-Web_dev_&_Java-red)
 ![Hobby](https://img.shields.io/badge/Hobby-Nature_photography-purple)
@@ -31,7 +31,7 @@
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,&theme=light)](https://skillicons.dev)
 
 ## 🔧 Other Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,materialui,vercel,npm,yarn,pnpm,vite,jest,linux,postman,&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,aws,vscode,materialui,vercel,npm,yarn,pnpm,vite,jest,linux,postman,&theme=light)](https://skillicons.dev)
 
 ---
 
