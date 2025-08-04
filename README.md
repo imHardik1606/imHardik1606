@@ -25,13 +25,13 @@
 [![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,&theme=light)](https://skillicons.dev)
 
 ## ⚙️ Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,expressjs,react,next,html,css,&theme=light)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,expressjs,react,next,graphql,html,css,&theme=light)](https://skillicons.dev)
 
 ## 🗄️ Databases
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,&theme=light)](https://skillicons.dev)
 
 ## 🔧 Other Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,aws,vscode,materialui,vercel,npm,yarn,pnpm,vite,jest,linux,postman,&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,aws,figma,redis,vscode,materialui,vercel,npm,yarn,pnpm,vite,jest,linux,postman,&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -65,7 +65,7 @@ Here are some projects that I’m proud of:
 - 📅 **[Travel-Planner](https://github.com/imHardik1606/AI-Travel-Planner)**  
  An AI-powered travel assistant that suggests hotels and daily itineraries based on your destination, budget, and travel details using Google Gemini. Plan smarter, travel better! 🚀 
 
-- 💬 **[MERN Chat](https://github.com/imHardik1606/mern-chat)**  
+- 💬 **[Rn-Movie-app](https://github.com/imHardik1606/rn-movie-app)**  
   A real-time chat application with file-sharing functionality for added versatility.
 
 ---
@@ -77,6 +77,12 @@ Here are some projects that I’m proud of:
 - 💻 Thrive in hackathons and enjoy building creative solutions.  
 - ☕ Coffee and coding go hand in hand for me!  
 - 🌟 Believe in mentoring and helping others get started with **DSA** and **Development**.  
+
+---
+
+# 🌐 Portfolio
+
+🚀 Check out my personal portfolio here: **[hardikgayner.me](https://imhardik1606.github.io/terminal-portfolio/)**
 
 ---
 
