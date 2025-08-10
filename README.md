@@ -92,7 +92,7 @@ Feel free to reach out to me:
 
 <div align="center">
   
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hardik-gayner-0b2ab32ba/)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hardik-gayner-0b2ab32ba)
   [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/h_gayner)
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hardikgayner1606@gmail.com)
   
