@@ -66,7 +66,7 @@ Here are some projects that I’m proud of:
  An AI-powered travel assistant that suggests hotels and daily itineraries based on your destination, budget, and travel details using Google Gemini. Plan smarter, travel better! 🚀 
 
 - 💬 **[Rn-Movie-app](https://github.com/imHardik1606/rn-movie-app)**  
-  A real-time chat application with file-sharing functionality for added versatility.
+  An app made using React-Native and TMDB API to display movie info.
 
 ---
 
