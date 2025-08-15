@@ -65,7 +65,7 @@ Here are some projects that I’m proud of:
 - 📅 **[Travel-Planner](https://github.com/imHardik1606/AI-Travel-Planner)**  
  An AI-powered travel assistant that suggests hotels and daily itineraries based on your destination, budget, and travel details using Google Gemini. Plan smarter, travel better! 🚀 
 
-- 💬 **[Rn-Movie-app](https://github.com/imHardik1606/rn-movie-app)**  
+- 💬 **[CineScope](https://github.com/imHardik1606/rn-movie-app)**  
   An app made using React-Native and TMDB API to display movie info.
 
 ---
