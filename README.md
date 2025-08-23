@@ -9,8 +9,9 @@
 - 🎓 **Student** at **Rashtrasant Tukadoji Maharaj Nagpur University**, passionate about building cool stuffs.  
 - 🌱 Currently mastering **DSA** and building projects using **Express.js** and **MongoDB**.  
 - 📘 Exploring **TypeScript** and **Golang** to expand my tech stack.  
-- ⚡ Enthusiastic about creating innovative projects in **web** and **Android development**.  
-- 💬 Love talking about **DSA**, **Java**, **JavaScript**, and **Web Development**.  
+- ⚡ Enthusiastic about creating innovative projects in **Web** and **Android development**.  
+- 💬 Love talking about **DSA**, **Java**, **New techs**, and **Web Development**.
+- ✨ Motto: *“Keep building, keep solving, keep growing.”*
 
 ![Working on](https://img.shields.io/badge/working_on-LeetGuide-orange)
 ![Learning](https://img.shields.io/badge/learning-GoLang_&_TypeScript-blue)
