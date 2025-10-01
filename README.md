@@ -14,7 +14,7 @@
 - ✨ Motto: *“Keep building, keep solving, keep growing.”*
 
 ![Working on](https://img.shields.io/badge/working_on-LeetGuide-orange)
-![Learning](https://img.shields.io/badge/learning-GoLang_&_TypeScript-blue)
+![Learning](https://img.shields.io/badge/learning-Go_&_TypeScript-blue)
 ![Interested In](https://img.shields.io/badge/interested_in-Web_dev_&_Java-red)
 ![Hobby](https://img.shields.io/badge/Hobby-Nature_photography-purple)
 
