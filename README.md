@@ -83,7 +83,9 @@ Here are some projects that I’m proud of:
 
 # 🌐 Portfolio
 
-🚀 Check out my personal portfolio here: **[hardikgayner.me](https://imhardik1606.github.io/terminal-portfolio/)**
+🚀 Check out my personal portfolio here: 
+- **[hardikgayner.me_1](https://imhardik1606.github.io/terminal-portfolio/)**
+- **[hardikgayner.me_2](https://hardikgayner.vercel.app/)**
 
 ---
 
