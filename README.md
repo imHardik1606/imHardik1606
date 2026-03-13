@@ -60,14 +60,14 @@
 
 Here are some projects that I’m proud of:
 
-- 🚀 **[WanderLust](https://github.com/imHardik1606/Wanderlust)**  
-  A web app enabling property rentals with ease, ensuring seamless management for hosts and renters.
+- 🚀 **[MistralQnA](https://github.com/imHardik1606/MistralQnA)**  
+  A Retrieval-Augmented Generation (RAG) application that allows users to ask questions about a PDF document and receive grounded answers using Mistral models. This project is built as a developer-facing AI tool with a focus on correctness, clarity, and best engineering practices rather than UI complexity.
 
-- 📅 **[Travel-Planner](https://github.com/imHardik1606/AI-Travel-Planner)**  
- An AI-powered travel assistant that suggests hotels and daily itineraries based on your destination, budget, and travel details using Google Gemini. Plan smarter, travel better! 🚀 
+- 📅 **[Sonify Reads](https://github.com/imHardik1606/SonifyReads)**  
+  An AI-powered platform that transforms your PDF documents into high-quality audio files.
 
-- 💬 **[CineScope](https://github.com/imHardik1606/rn-movie-app)**  
-  An app made using React-Native and TMDB API to display movie info.
+- 💬 **[Formula1 Pulse](https://github.com/imHardik1606/F1-Pulse)**  
+  A web that showcase info about Formula one races and other stats
 
 ---
 
