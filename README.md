@@ -4,35 +4,38 @@
 
 ---
 
-# 🙋‍♂️ **About Me**
+# 🙋‍♂️ **About Me**  
 
 - 🎓 **Student** at **Rashtrasant Tukadoji Maharaj Nagpur University**, passionate about building cool stuffs.  
-- 🌱 Currently mastering **DSA** and building projects using **Express.js** and **MongoDB**.  
-- 📘 Exploring **TypeScript** and **Golang** to expand my tech stack.  
-- ⚡ Enthusiastic about creating innovative projects in **Web** and **Android development**.  
-- 💬 Love talking about **DSA**, **Java**, **New techs**, and **Web Development**.
+- 🌱 Currently mastering **DSA** and building projects using **Flask** and **FastAPI**.  
+- 📘 Exploring **Machine Learning** and **Deep Learning** to expand my tech stack.  
+- ⚡ Enthusiastic about creating innovative projects in **Web**, **Android**, **Machine Learning**.  
+- 💬 Love talking about **ML**, **AI Agents**, **LLMs**, and **Maths**.
 - ✨ Motto: *“Keep building, keep solving, keep growing.”*
 
-![Working on](https://img.shields.io/badge/working_on-LeetGuide-orange)
-![Learning](https://img.shields.io/badge/learning-Go_&_TypeScript-blue)
-![Interested In](https://img.shields.io/badge/interested_in-Web_dev_&_Java-red)
-![Hobby](https://img.shields.io/badge/Hobby-Nature_photography-purple)
+![Working on](https://img.shields.io/badge/working_on-F1_Race_Winner_Prediction-red)
+![Learning](https://img.shields.io/badge/learning-Deep_Learning_&_Transformers-blue)
+![Interested In](https://img.shields.io/badge/interested_in-AI_Agents_&_LLMs-red)
+![Hobby](https://img.shields.io/badge/Hobby-Nature_photography-green)
 
 ---
 
 # 🛠️ **Tech Stack**
 
 ## 👨‍💻 Programming Languages
-[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,python,go,c,cpp,&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript,go,c,cpp,&theme=light)](https://skillicons.dev)
 
 ## ⚙️ Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,expressjs,react,next,graphql,html,css,&theme=light)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=flask,fastapi,nodejs,expressjs,react,next,graphql,&theme=light)](https://skillicons.dev)
 
 ## 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,&theme=light)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light)](https://skillicons.dev)
+
+## Machine Learning and AI
+[![ML & AI](https://skillicons.dev/icons?i=sklearn,pytorch,opencv&theme=light)](https://skillicons.dev)
 
 ## 🔧 Other Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,aws,figma,redis,vscode,materialui,vercel,npm,yarn,pnpm,vite,jest,linux,postman,&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,aws,figma,redis,vscode,materialui,jest,linux,postman,&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -73,11 +76,11 @@ Here are some projects that I’m proud of:
 
 # 💡 **Fun Facts**
 
-- 🧩 Love solving challenging problems on platforms like **LeetCode**.  
-- 🤖 Passionate about exploring **LLMs** and **AI**.  
+- 🧩 Love solving challenging problems using **Machine Learning** and **LLMs**
+- 🤖 Passionate about exploring **AI Agents** and **Transformers**.  
 - 💻 Thrive in hackathons and enjoy building creative solutions.  
-- ☕ Coffee and coding go hand in hand for me!  
-- 🌟 Believe in mentoring and helping others get started with **DSA** and **Development**.  
+- ☕ I code in my bed so I won't sleep
+- 🌟 Believe in mentoring and helping others get started with **Machine Learning** and **AI**.  
 
 ---
 
